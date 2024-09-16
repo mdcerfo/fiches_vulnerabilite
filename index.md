@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Nos essences forestières vers le futur 
+
 <img src="./CERFO-logo-horizontal-descripteur-noir.png" alt="Logo de l'entreprise" style="max-width: 300px;">
 
 
