@@ -1,0 +1,5 @@
+Version 1.3 des fiches pour les Regions : 
+* Montérégie
+* Estrie
+* Chaudière-Appalaches
+* Centre-du-Québec
