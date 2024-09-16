@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: <center>
+  <img src="./CERFO-logo-horizontal-descripteur-noir.png" alt="Logo de l'entreprise" style="max-width: 200px;">
+</center>
+description: "Fiches"  # (Optionnel) Texte sous le header
