@@ -68,3 +68,16 @@ Pour plus d'informations concernant les fiches, vous pouvez contacter :
  <img src="./logo_GFchaudieres.jpg" alt="Logo groupement forestier" style="max-width: 300px;">
  <img src="./Agence_FPC-GRAND.png" alt="Logo Agence" style="max-width: 200px;">
  <img src="./crsng.png" alt="Logo Agence" style="max-width: 200px;">
+
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G7KFNSSTS6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G7KFNSSTS6');
+</script>
+</head>
