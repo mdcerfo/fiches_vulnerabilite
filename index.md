@@ -3,8 +3,9 @@ layout: default
 ---
 
 # Nos essences forestières vers le futur 
-
 <img src="./CERFO-logo-horizontal-descripteur-noir.png" alt="Logo de l'entreprise" style="max-width: 300px;">
+
+
 
 ## Le projet intial
 Ces fiches ont été réalisées dans le cadre du projet "Documentation des bonnes pratiques pour le reboisement d'essences feuillues dans un contexte de changements climatiques et de pression de broutement".
@@ -13,9 +14,12 @@ Ces fiches sont un complément aux connaissances actuelles des professionnels fo
 
 ## Les fiches
 ### Chaudière-Appalache | Centre-du-Québec | Montérégie | Estrie
-##### *Version 1.3* 
+##### *Version 1.3 - Dernière mise-à-jour de la page : 2024-09-16* 
 
-Voici les fiches PDF présentement disponible en téléchargement :
+Voici les fiches PDF présentement disponibles. Cliquez sur les liens pour lancer le téléchargement des PDF.   
+Pour plus d'informations concernant les fiches, vous pouvez contacter : [Marine Duperat](mailto:mduperat@cerfo.qc.ca) ou [Samuel Royer-Tardif](mailto:sroyertardif@cerfo.qc.ca)
+
+
 
 **Feuillus**
 * [Bouleau gris](./BOG_v1.3.pdf)  
@@ -44,10 +48,10 @@ Voici les fiches PDF présentement disponible en téléchargement :
 * [Pin blanc](./PIB_v1.3.pdf)
 * [Pin Rouge](./PIR_v1.3.pdf)
 * [Pruche](./PRU_vf1.3.pdf)
-* [Thuya occiental](./THU_v1.3.pdf)
+* [Thuya occiental](./THO_v1.3.pdf)
 
 
 ## Partenariat et financements
- <img src="./logo_GFchaudieres.jpg" alt="Logo groupement forestier" style="max-width: 200px;">
+ <img src="./logo_GFchaudieres.jpg" alt="Logo groupement forestier" style="max-width: 300px;">
  <img src="./Agence_FPC-GRAND.png" alt="Logo Agence" style="max-width: 200px;">
  <img src="./crsng.png" alt="Logo Agence" style="max-width: 200px;">
