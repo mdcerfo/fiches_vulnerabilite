@@ -7,16 +7,18 @@ layout: default
 
 
 
-## Le projet intial
+## Le projet initial
 Ces fiches ont été réalisées dans le cadre du projet "Documentation des bonnes pratiques pour le reboisement d'essences feuillues dans un contexte de changements climatiques et de pression de broutement".
 Elles font le bilan, par espèce, des connaissances scientifiques les plus à jour vis-à-vis de leur vulnérabilité aux changements climatiques. 
 Ces fiches sont un complément aux connaissances actuelles des professionnels forestiers. 
 
-## Les fiches
+## Les fiches de vulnérabilité
 ### Chaudière-Appalache | Centre-du-Québec | Montérégie | Estrie
 ##### *Version 1.3 - Dernière mise-à-jour de la page : 2024-09-16* 
 
-Voici les fiches PDF présentement disponibles.  
+Voici les fiches PDF présentement disponibles.
+
+
 Pour plus d'informations concernant les fiches, vous pouvez contacter :
 * [Marine Duperat](mailto:mduperat@cerfo.qc.ca)
 * [Samuel Royer-Tardif](mailto:sroyertardif@cerfo.qc.ca)
@@ -45,15 +47,21 @@ Pour plus d'informations concernant les fiches, vous pouvez contacter :
 * [Ostryer de Virginie](./OSV_v1.3.pdf)
 * [Peuplier deltoïde](./PED_v1.3.pdf)
 * [Peuplier à grandes-dents](./PEG_vf1.3.pdf)
-* [Peuplier faux-trembles](./PET_v1.3.pdf)
+* [Peuplier faux-tremble](./PET_v1.3.pdf)
 * [Tilleul d'Amérique](./TIL_vf1.3.pdf)  
 
 
 **Conifères**
 * [Pin blanc](./PIB_v1.3.pdf)
-* [Pin Rouge](./PIR_v1.3.pdf)
+* [Pin rouge](./PIR_v1.3.pdf)
 * [Pruche](./PRU_vf1.3.pdf)
-* [Thuya occiental](./THO_v1.3.pdf)
+* [Thuya occidental](./THO_v1.3.pdf)
+
+
+## Références 
+
+*à venir* 
+
 
 
 ## Partenariat et financements
