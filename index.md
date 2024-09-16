@@ -2,17 +2,17 @@
 layout: default
 ---
 
-
+<div style="text-align: center;">
 <img src="./CERFO-logo-horizontal-descripteur-noir.png" alt="Logo de l'entreprise" style="max-width: 300px;">
+</div>
 
 
-
-## Le projet initial
+# Le projet initial
 Ces fiches ont été réalisées dans le cadre du projet "Documentation des bonnes pratiques pour le reboisement d'essences feuillues dans un contexte de changements climatiques et de pression de broutement".
 Elles font le bilan, par espèce, des connaissances scientifiques les plus à jour vis-à-vis de leur vulnérabilité aux changements climatiques. 
 Ces fiches sont un complément aux connaissances actuelles des professionnels forestiers. 
 
-## Les fiches de vulnérabilité
+# Les fiches de vulnérabilité
 ### Chaudière-Appalache | Centre-du-Québec | Montérégie | Estrie
 ##### *Version 1.3 - Dernière mise-à-jour de la page : 2024-09-16* 
 
@@ -58,13 +58,13 @@ Pour plus d'informations concernant les fiches, vous pouvez contacter :
 * [Thuya occidental](./THO_v1.3.pdf)
 
 
-## Références 
+# Références 
 
 *à venir* 
 
 
 
-## Partenariat et financements
+# Partenariat et financements
  <img src="./logo_GFchaudieres.jpg" alt="Logo groupement forestier" style="max-width: 300px;">
  <img src="./Agence_FPC-GRAND.png" alt="Logo Agence" style="max-width: 200px;">
  <img src="./crsng.png" alt="Logo Agence" style="max-width: 200px;">
