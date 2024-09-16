@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# 
+# Nos essences forestières vers le futur 
+
+<img src="./CERFO-logo-horizontal-descripteur-noir.png" alt="Logo de l'entreprise" style="max-width: 300px;">
 
 ## Le projet intial
 Ces fiches ont été réalisées dans le cadre du projet "Documentation des bonnes pratiques pour le reboisement d'essences feuillues dans un contexte de changements climatiques et de pression de broutement".
@@ -46,8 +48,6 @@ Voici les fiches PDF présentement disponible en téléchargement :
 
 
 ## Partenariat et financements
-
- <img src="./CERFO-logo-horizontal-descripteur-noir.png" alt="Logo de l'entreprise" style="max-width: 200px;">
  <img src="./logo_GFchaudieres.jpg" alt="Logo groupement forestier" style="max-width: 200px;">
  <img src="./Agence_FPC-GRAND.png" alt="Logo Agence" style="max-width: 200px;">
  <img src="./crsng.png" alt="Logo Agence" style="max-width: 200px;">
