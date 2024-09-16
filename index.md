@@ -16,18 +16,23 @@ Ces fiches sont un complément aux connaissances actuelles des professionnels fo
 ### Chaudière-Appalache | Centre-du-Québec | Montérégie | Estrie
 ##### *Version 1.3 - Dernière mise-à-jour de la page : 2024-09-16* 
 
-Voici les fiches PDF présentement disponibles. Cliquez sur les liens pour lancer le téléchargement des PDF.   
-Pour plus d'informations concernant les fiches, vous pouvez contacter : [Marine Duperat](mailto:mduperat@cerfo.qc.ca) ou [Samuel Royer-Tardif](mailto:sroyertardif@cerfo.qc.ca)
+Voici les fiches PDF présentement disponibles.  
+Pour plus d'informations concernant les fiches, vous pouvez contacter :
+* [Marine Duperat](mailto:mduperat@cerfo.qc.ca)
+* [Samuel Royer-Tardif](mailto:sroyertardif@cerfo.qc.ca)
+
+
+*Cliquez sur les liens pour lancer le téléchargement des PDF.*
 
 
 
 **Feuillus**
 * [Bouleau gris](./BOG_v1.3.pdf)  
 * [Bouleau jaune](./BOJ_vf1.3.pdf)  
-* [Caryer cordiforme](./CAC_v1f.3.pdf)  
-* [Caryer ovale](./CAF_vf1.3.pdf)  
+* [Caryer cordiforme](./CAC_vf1.3.pdf)  
+* [Caryer ovale](./CAF_v1.3.pdf)  
 * [Cerisier tardif](./CET_vf1.3.pdf)  
-* [Chêne blanc](./CHB_vf1.3.pdf)  
+* [Chêne blanc](./CHB_v1.3.pdf)  
 * [Chêne bicolore](./CHE_vf1.3.pdf)  
 * [Chêne à gros fruits](./CHG_vf1.3.pdf)  
 * [Chêne rouge](./CHR_vf1.3.pdf)  
